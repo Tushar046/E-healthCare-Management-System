@@ -1,9 +1,8 @@
 # E-healthCare-Management-System
-# Hospital Management System
 
 ## Overview
 
-The Hospital Management System is a full-stack web application developed to manage hospital operations effectively. It leverages modern web technologies like Spring Boot, React.js, and MySQL to provide a seamless and interactive user experience. This system aims to streamline the administrative tasks of a hospital, including patient management, doctor management, employee management, and more.
+The E-healthCare Management System is a full-stack web application developed to manage hospital operations effectively. It leverages modern web technologies like Spring Boot, React.js, and MySQL to provide a seamless and interactive user experience. This system aims to streamline the administrative tasks of a hospital, including patient management, doctor management, employee management, and more.
 
 ## Features
 
